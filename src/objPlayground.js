@@ -39,7 +39,7 @@ const calculator = (number1, number2) => {
     mult: Math.round(number1 * number2),
     div: Math.floor(number1 / number2),
     sub: Math.round(number1 - number2),
-  }
+  };
   return objeto;
 };
 
