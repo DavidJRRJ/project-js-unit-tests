@@ -110,7 +110,7 @@ const createMenu = (obj) => {
       } 
       let taxa = (soma * 0.1);
       return soma + taxa;
-    };
+    }
   };
   return restaurant;
 };
